@@ -153,12 +153,14 @@ Here are some ideas to get you started:
       <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px>       
     </b>
   </summary>
-  <div align="center">
-    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8qefx3tjqvghzjl6fpp9xumlq&cover_image=true&theme=novatorem&show_offline=false&background_color=021d45&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=8qefx3tjqvghzjl6fpp9xumlq&redirect=true)
-  </div> 
-</details>&nbsp;
-<a href="https://open.spotify.com/" target="_blank"> 
+  <a href="https://open.spotify.com/" target="_blank"> 
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=8qefx3tjqvghzjl6fpp9xumlq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color_cover=true&bar_color=53b14f"/> 
 </a>
+</details>&nbsp;
+
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8qefx3tjqvghzjl6fpp9xumlq)
+
+<div align="center">
+    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8qefx3tjqvghzjl6fpp9xumlq&cover_image=true&theme=novatorem&show_offline=false&background_color=021d45&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=8qefx3tjqvghzjl6fpp9xumlq&redirect=true)
+  </div> 
