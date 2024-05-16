@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 <table width="100%">
   <tr>
-    <td width="55%">
+    <td>
       <h2> 💻 &nbsp;About Me </h2>
       <br>
       <blockquote>
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
        </ul>
        <br>
     </td>
-    <td width="45%">
+    <td>
      <p align="center">
       <a href="https://github.com/Taabannn">
        <img src="Images/about.svg" />
