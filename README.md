@@ -146,14 +146,17 @@ Here are some ideas to get you started:
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
 
-<details><summary><b>L&nbsp;I&nbsp;S&nbsp;T&nbsp;E&nbsp;N&nbsp;&nbsp; W&nbsp;I&nbsp;T&nbsp;H&nbsp;&nbsp; M&nbsp;E&nbsp;<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px></b></summary>
-&nbsp;<div align="center">
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff) ] (https://open.spotify.com/user/omnitenebris)
-</div>
-</details>&nbsp;<div align="center">
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8qefx3tjqvghzjl6fpp9xumlq&cover_image=true&theme=novatorem&show_offline=false&background_color=021d45&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=8qefx3tjqvghzjl6fpp9xumlq&redirect=true)
-</div>
-
+<details>
+  <summary>
+    <b>
+      L&nbsp;I&nbsp;S&nbsp;T&nbsp;E&nbsp;N&nbsp;&nbsp; W&nbsp;I&nbsp;T&nbsp;H&nbsp;&nbsp; M&nbsp;E&nbsp;
+      <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px>       
+    </b>
+  </summary>
+  <div align="center">
+    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8qefx3tjqvghzjl6fpp9xumlq&cover_image=true&theme=novatorem&show_offline=false&background_color=021d45&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=8qefx3tjqvghzjl6fpp9xumlq&redirect=true)
+  </div> 
+</details>&nbsp;
 <a href="https://open.spotify.com/" target="_blank"> 
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=8qefx3tjqvghzjl6fpp9xumlq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color_cover=true&bar_color=53b14f"/> 
 </a>
