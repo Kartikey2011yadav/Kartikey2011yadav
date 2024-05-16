@@ -84,6 +84,7 @@ Here are some ideas to get you started:
   ### 🤝🏻 &nbsp;Connect with Me
   <img src ="Images/social_dashboard.svg" align = "left" width = 50%>
 <div>
+  
 [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/avinash218/)
 [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-thebadge&logo=AngelList&logoColor=black" />](https://angel.co/u/avinash-r-23)
 <br><br>
@@ -95,6 +96,7 @@ Here are some ideas to get you started:
 <br><br>
 [<img align="top" alt="Medium" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://avinash-218.hashnode.dev/)
 <br><br>
+
 </div>
   
 ## Just a Snake 🐍 Eating away my Contributions...😭
