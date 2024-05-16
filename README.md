@@ -156,7 +156,7 @@ Here are some ideas to get you started:
   <a href="https://open.spotify.com/" target="_blank"> 
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=8qefx3tjqvghzjl6fpp9xumlq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color_cover=true&bar_color=53b14f"/> 
 </a>
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8qefx3tjqvghzjl6fpp9xumlq)
+[![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8qefx3tjqvghzjl6fpp9xumlq)]
 </details>&nbsp;
 
 
