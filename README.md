@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1.svg?style=flat&logo=arch-linux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux?style=flat&logo=arch-linux&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=macos&logoColor=F0F0F0)
 ![IOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
 ![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=flat&logo=apple-music&logoColor=white)
