@@ -150,5 +150,6 @@ Here are some ideas to get you started:
 &nbsp;<div align="center">
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff) ] (https://open.spotify.com/user/omnitenebris)
 </div>
-</details>
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff) ] (https://open.spotify.com/user/omnitenebris)
+</details>&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
