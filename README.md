@@ -153,3 +153,7 @@ Here are some ideas to get you started:
 </details>&nbsp;<div align="center">
  [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
 </div>
+
+<a href="https://open.spotify.com/" target="_blank"> 
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=214zuzj6g7ndx46cmed74tymq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color_cover=true&bar_color=53b14f"/> 
+</a>
