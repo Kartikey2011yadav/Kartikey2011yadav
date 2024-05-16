@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hello There, This is Kartikey <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;+Learning+crossplatform+development ;Java%20|%20Algorithms%20|%20Firebase%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FF2F7&center=true&random=false&width=660&lines=Flutter+Developer+%7C+learning+cross-platform+development;Algorithms+%7C+c%2B%2B+%7C+Java+%7C+Firebase+%7C+sql;Always+learning+new+things...)](https://git.io/typing-svg)
 
 ### 🛠 &nbsp;Tech Stack
 
