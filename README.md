@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ### 🛠 &nbsp;Tech Stack
 
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
@@ -40,7 +41,6 @@ Here are some ideas to get you started:
 
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1.svg?style=flat&logo=arch-linux&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux?style=flat&logo=arch-linux&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=macos&logoColor=F0F0F0)
 ![IOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
 ![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=flat&logo=apple-music&logoColor=white)
