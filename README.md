@@ -68,6 +68,7 @@ Here are some ideas to get you started:
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE)
 
+<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
