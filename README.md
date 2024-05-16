@@ -48,7 +48,7 @@ Here are some ideas to get you started:
     <td width="45%">
      <p align="center">
       <a href="https://github.com/Taabannn">
-       <img src="images/java-python-developer.png"/>
+       <img src="images/about.svg"/>
       </a>
      </p>
     </td>
