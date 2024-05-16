@@ -148,6 +148,6 @@ Here are some ideas to get you started:
 
 <details><summary><b>L&nbsp;I&nbsp;S&nbsp;T&nbsp;E&nbsp;N&nbsp;&nbsp; W&nbsp;I&nbsp;T&nbsp;H&nbsp;&nbsp; M&nbsp;E&nbsp;<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px></b></summary>
 &nbsp;<div align="center">
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff) ] (https://open.spotify.com/user/omnitenebris)
 </div>
 </details>
