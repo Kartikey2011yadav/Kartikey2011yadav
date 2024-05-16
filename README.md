@@ -75,6 +75,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/Kartikey2011yadav"> 
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kartikey2011yadav&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kartikey2011yadav&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikey2011yadav&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true" />
   </a>    
 </p>
 
@@ -89,23 +90,3 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/rafael.azizov.503/"><img src="https://img.shields.io/badge/-@rafael.azizovv-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p><br>
 
-  ### Developer(me) Sites and Applications
-- [Applicaiton](https://play-google-com.translate.goog/store/apps/details?id=com.sakuraz.wingz&hl=az&_x_tr_sl=az&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc) - WingZ On Demand.
-- [Site](https://birainy.com/) - BIRainy.
-- [Site](http://alliance.net/) - Alliance Logistics.
-- [Site](http://roborek.com) - RoboRek.
-- [Site](http://technovateinvestments.com) - Technovate Investments.
-- [Site](http://technovate-sabah-angels.com/) - Technovate Sabah Angels.
-- [Site](http://wingz.az) - WingZ.
-- [Site](http://azizovrafael.com/) - My Portfilio Site.
-- [Site](http://Rosetour.az/) - RoseTour.
-- [Site](http://jobfier.com/) - Jobfier.
-- [Site](https://game.birainy.com) - BIRainy Game.
-- [Telegram Bot](https://t.me/adra_telegram_bot) - ADRA Telegram.
-- [Site](http://maeasyinvest.com/) - My Easy Invesment.
-- [Site](https://100.yelload.az/) - Heydar Aliyev's 100th anniversary.
-- [Site](http://azizovrafael.com/) - Portfolio site.  
-- [Site](http://exclusive-trip.com/) - Exclusive-Trip tourism site.
-- [Site](https://oliveiralawyers.com/wp-content/uploads/2023/02/non-disclosure-agreement2.jpg) - Azeriqaz Android OCR SDK.
-- [Site](https://oliveiralawyers.com/wp-content/uploads/2023/02/non-disclosure-agreement2.jpg) - Azercosmos File system with OCR (Aze and Eng langs).
-- [Site](https://oliveiralawyers.com/wp-content/uploads/2023/02/non-disclosure-agreement2.jpg) - Inam Medical ERP system.
