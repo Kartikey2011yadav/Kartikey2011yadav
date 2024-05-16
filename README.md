@@ -151,7 +151,7 @@ Here are some ideas to get you started:
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff) ] (https://open.spotify.com/user/omnitenebris)
 </div>
 </details>&nbsp;<div align="center">
- [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8qefx3tjqvghzjl6fpp9xumlq&cover_image=true&theme=novatorem&show_offline=false&background_color=021d45&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=8qefx3tjqvghzjl6fpp9xumlq&redirect=true)
 </div>
 
 <a href="https://open.spotify.com/" target="_blank"> 
