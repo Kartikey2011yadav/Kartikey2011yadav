@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?flat-square&logo=LeetCode&logoColor=#d16c06)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?flat-square&logo=HackerRank&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1.svg?style=flat&logo=arch-linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=flat&logo=android%20studio&logoColor=white)
