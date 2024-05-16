@@ -119,7 +119,7 @@ Here are some ideas to get you started:
 </p>
 
   
-  ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="40px">Social
+  ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' > Social
   <img src ="Images/social_dashboard.svg" align = "left" width = 50%>
 <div>
   
