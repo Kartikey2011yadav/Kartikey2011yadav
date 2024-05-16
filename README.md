@@ -48,7 +48,7 @@ Here are some ideas to get you started:
     <td>
      <p align="center">
       <a href="https://github.com/Taabannn">
-       <img src="Images/about.svg" width="150"/>
+       <img src="Images/about.svg" width="450"/>
       </a>
      </p>
     </td>
