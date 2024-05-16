@@ -157,8 +157,5 @@ Here are some ideas to get you started:
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=8qefx3tjqvghzjl6fpp9xumlq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color_cover=true&bar_color=53b14f"/> 
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=8qefx3tjqvghzjl6fpp9xumlq"/>  
 </a>
-
 </details>&nbsp;
-![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=8qefx3tjqvghzjl6fpp9xumlq)
-
 
