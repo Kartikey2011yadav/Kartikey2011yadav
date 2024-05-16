@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE)
 
-<br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -80,7 +80,6 @@ Here are some ideas to get you started:
   </a>    
 </p>
 
-  
   
   ### 🤝🏻 &nbsp;Social
   <img src ="Images/social_dashboard.svg" align = "left" width = 50%>
