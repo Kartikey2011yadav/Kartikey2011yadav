@@ -26,7 +26,7 @@ Here are some ideas to get you started:
       <br>
       <blockquote>
         <p> 
-          I majored in electrical engineering (Thesis Title: "Designing
+          I majored in Information technology (Thesis Title: "Designing
           <br>
           IoT Network Simulator Based on MQTT Protocol"), and my 
           <br>
