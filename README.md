@@ -147,3 +147,5 @@ Here are some ideas to get you started:
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7b2cbe85-181a-4881-abc0-6c72533d43dd/deploy-status)](https://app.netlify.com/sites/industryproject/deploys)
