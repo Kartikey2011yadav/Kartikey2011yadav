@@ -134,7 +134,7 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kartikey-yadav-b096a3203/"><img src="https://img.shields.io/badge/-Kartikey%Linkedin?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kartikey-yadav-b096a3203/"><img src="https://img.shields.io/badge/-Kartikey%Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/darth_kartikey/"><img src="https://img.shields.io/badge/-@rafael.azizovv_-E4405?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/rafael.azizov.503/"><img src="https://img.shields.io/badge/-@rafael.azizovv-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p><br>
