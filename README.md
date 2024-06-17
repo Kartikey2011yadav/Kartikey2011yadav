@@ -129,15 +129,10 @@ Here are some ideas to get you started:
 <br><br>
 [<img align="top" alt="Gmail" src="https://img.shields.io/badge/-rafael.jr077@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />](mailto:kartikey.yadav.1120@gmail.com)
 <br><br>
-[<img align="top" alt="Medium" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://avinash-218.hashnode.dev/)
+[<img align="top" alt="Medium" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://Kartikey.dev/)
 <br><br>
 </div>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/kartikey-yadav-b096a3203/"><img src="https://img.shields.io/badge/-Kartikey%Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/darth_kartikey/"><img src="https://img.shields.io/badge/-@rafael.azizovv_-E4405?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/rafael.azizov.503/"><img src="https://img.shields.io/badge/-@rafael.azizovv-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p><br>
+<br><br>
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
