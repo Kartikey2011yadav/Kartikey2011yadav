@@ -26,15 +26,9 @@ Here are some ideas to get you started:
       <br>
       <blockquote>
         <p> 
-          I majored in Information technology (Thesis Title: "Designing
+          I am a Flutter/Android Developer currently pursuing Mtech in Information technology from IIPS Davv, indore India
           <br>
-          IoT Network Simulator Based on MQTT Protocol"), and my 
-          <br>
-          research is focused on edge-caching in IoT networks. 
-          <br>
-          Currently, learning python, and here I share my hands-on  
-          <br>
-          and course project repositories.
+          Improving my skill every day in, Flutter, Java , cpp, etc.
         </p>
       </blockquote>
        <ul>
