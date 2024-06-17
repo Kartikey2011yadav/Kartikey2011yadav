@@ -34,8 +34,8 @@ Here are some ideas to get you started:
         </p>
       </blockquote>
        <ul>
-        <li>🎓 &nbsp; B.Sc of Electrical Engineering at <a href="https://ut.ac.ir/en">UT</a></li>
-        <li>📚 &nbsp; Studying M.Sc of Communication Networks at <a href="https://ut.ac.ir/en">UT</a></li>
+        <li>🎓 &nbsp; Masters of Technology in Information Technology at <a href="https://iips.edu.in">view</a></li>
+        <li>📚 &nbsp; Did my Schooling from 1st to 12th at St.Paul H.S. School <a href="https://www.stpaulindore.com">view</a></li>
         <li>👩‍💻 &nbsp; Junior Java Back-end Developer </li>
          <li>👩‍💻 &nbsp; Flutter Developer </li>
         <li>🤔 &nbsp; Interested in Machine Learning and Optimization</li>
