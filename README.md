@@ -36,15 +36,15 @@ Here are some ideas to get you started:
        <ul>
         <li>🎓 &nbsp; Masters of Technology in Information Technology at <a href="https://iips.edu.in">view</a></li>
         <li>📚 &nbsp; Did my Schooling from 1st to 12th at St.Paul H.S. School <a href="https://www.stpaulindore.com">view</a></li>
-        <li>👩‍💻 &nbsp; Junior Java Back-end Developer </li>
-         <li>👩‍💻 &nbsp; Flutter Developer </li>
+        <li>👩‍💻 &nbsp; Flutter/Android Developer </li>
+        <li>👩‍💻 &nbsp; Back-end Development with Java and cpp </li>
         <li>🤔 &nbsp; Interested in Machine Learning and Optimization</li>
        </ul>
        <br>
     </td>
     <td>
      <p align="center">
-      <a href="https://github.com/Taabannn">
+      <a href="https://github.com/Kartikey2011yadav">
        <img src="Images/about.svg" width="100%"/>
       </a>
      </p>
