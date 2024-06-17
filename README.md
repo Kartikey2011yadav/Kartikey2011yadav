@@ -26,7 +26,9 @@ Here are some ideas to get you started:
       <br>
       <blockquote>
         <p> 
-          I am a Flutter/Android Developer currently pursuing Mtech in Information technology from IIPS Davv, indore India
+          I am a Flutter/Android Developer currently pursuing Mtech in 
+          <br>
+          Information technology from IIPS Davv, indore India
           <br>
           Improving my skill every day in, Flutter, Java , cpp, etc.
         </p>
