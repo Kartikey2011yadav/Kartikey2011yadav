@@ -127,7 +127,7 @@ Here are some ideas to get you started:
 [<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/darth_kartikey/)
 [<img align="top" alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />](https://dev.to/Kartikey2011)
 <br><br>
-[<img align="top" alt="Gmail" src="https://img.shields.io/badge/-rafael.jr077@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />](mailto:kartikey.yadav.1120@gmail.com)
+[<img align="top" alt="Gmail" src="https://img.shields.io/badge/-kartikey.yadav.1120@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />](mailto:kartikey.yadav.1120@gmail.com)
 <br><br>
 [<img align="top" alt="Medium" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://Kartikey.dev/)
 <br><br>
