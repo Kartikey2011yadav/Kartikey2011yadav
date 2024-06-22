@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <table width="100%">
   <tr>
     <td>
-      <h2> 💻 &nbsp;About Me </h2>
+      <h2> &nbsp;About Me </h2>
       <br>
       <blockquote>
         <p> 
