@@ -114,7 +114,7 @@ Here are some ideas to get you started:
     <img src="https://streak-stats.demolab.com?user=Kartikey2011yadav&theme=algolia" alt="GitHub Streak" />
   </a>    
 </p>
-[![Kartikey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartikey2011yadav)](https://github.com/anuraghazra/github-readme-stats)
+[![Kartikey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartikey2011yadav)](https://github.com/Kartikey2011yadav/)
 
   
   ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px"> Social
