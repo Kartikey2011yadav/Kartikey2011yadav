@@ -117,7 +117,7 @@ Here are some ideas to get you started:
 
 
   ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px"> Social
-  <img src ="Images/social_dashboard.svg" align = "left" width = 10%>
+  <img src ="Images/social_dashboard.svg" align = "left" width = 60%>
 <div>
 
 [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kartikey-yadav-b096a3203/)
@@ -135,4 +135,4 @@ Here are some ideas to get you started:
 <br><br>
 
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
