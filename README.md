@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=Kartikey2011yadav&style=flat&color=blue)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-<br>
 <h1 align="center">Hello There, This is Kartikey <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&pause=1000&size=35&center=true&random=false&width=900&height=60&lines=Flutter+Developer+%7C+Backend+%7C+cross-platform+;Algorithms+%7C+c%2B%2B+%7C+Java+%7C+Firebase+%7C+sql+%7C+Python;Always+learning+new+things..." alt="Typing SVG" /></a>
