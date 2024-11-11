@@ -119,6 +119,7 @@ Here are some ideas to get you started:
 </p>
 
 ## 🪶 GSSOC(24) Badges 
+<br/>
 <div style='display:flex; align-items:center; gap: 50px;' align='center'>
   <a href="https://api.badgr.io/public/assertions/1NqjesiIQ3OMUnyIOpoxxA?identity__email=nykay10968%40gmail.com">
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -137,7 +138,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a> -->
 </div>
-<br/><br/>
+<br/>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px"> Social
   <img src ="Images/social_dashboard.svg" align = "left" width = 40%>
