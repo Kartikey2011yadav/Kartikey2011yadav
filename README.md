@@ -158,6 +158,3 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a> -->
 </div>
-<div>
-  <iframe src="https://api.badgr.io/public/assertions/1NqjesiIQ3OMUnyIOpoxxA?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=nykay10968%40gmail.com" title="Badge: Postman API Fundamentals Student Expert" style="width: 330px; height: 191px; border: 0px;"></iframe>
-</div>
