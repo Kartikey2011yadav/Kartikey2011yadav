@@ -118,8 +118,6 @@ Here are some ideas to get you started:
   </a>    
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🪶 GSSOC(24) Badges 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
   <a href="https://api.badgr.io/public/assertions/1NqjesiIQ3OMUnyIOpoxxA?identity__email=nykay10968%40gmail.com">
@@ -139,7 +137,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a> -->
 </div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px"> Social
   <img src ="Images/social_dashboard.svg" align = "left" width = 40%>
