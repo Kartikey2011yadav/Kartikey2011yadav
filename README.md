@@ -119,7 +119,7 @@ Here are some ideas to get you started:
 </p>
 
 ## 🪶 GSSOC(24) Badges 
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<div style='display:flex; align-items:center; gap: 40px;' align='center'>
   <a href="https://api.badgr.io/public/assertions/1NqjesiIQ3OMUnyIOpoxxA?identity__email=nykay10968%40gmail.com">
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   </a>
