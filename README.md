@@ -144,6 +144,7 @@ Here are some ideas to get you started:
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px"> Social
   <img src ="Images/social_dashboard.svg" align = "left" width = 40%>
 <div>
+  
 [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kartikey-yadav-b096a3203/)
 [<img align="top" alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/channels/@me/903455907701207041)
 [<img align="top" alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/kartikey2011)
