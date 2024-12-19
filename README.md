@@ -113,7 +113,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/Kartikey2011yadav"> 
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kartikey2011yadav&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kartikey2011yadav&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Kartikey2011yadav&theme=algolia" alt="GitHub Streak" />
+    <img src="https://nirzak-streak-stats.vercel.app?user=Kartikey2011yadav&theme=algolia" alt="GitHub Streak" />
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=Kartikey2011yadav" alt="GitHub Streak" />    -->
   </a>    
 </p>
